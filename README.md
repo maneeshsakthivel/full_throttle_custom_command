@@ -5,6 +5,6 @@ This repository is of a django project with 2 parts.
 
 To run the command use - 
 
-python manage.py fill_data
+<code>python manage.py fill_data</code>
 
 API to retrive the data hit - http://127.0.0.1:8000/full_throttle/get_user_activity
